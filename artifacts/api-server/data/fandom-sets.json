@@ -1,0 +1,1302 @@
+{
+  "fetchedAt": 1777364456810,
+  "sets": {
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Evergreen Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bd/Chroma_Evergreen_Set.png/revision/latest/scale-to-width-down/300?cb=20240226141844",
+      "components": [
+        "Chroma Evergreen",
+        "Chroma Evergun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Ever Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Alien Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/fd/Chroma_Alien_Set.png/revision/latest/scale-to-width-down/300?cb=20251028121621",
+      "components": [
+        "Chroma Alienbeam",
+        "Chroma Raygun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Bauble Set": {
+      "imageUrl": "https://murder-mystery-2.fandom.com/wiki/Special:Filepath/Chroma%20Bauble%20Set.png",
+      "components": [
+        "Chroma Ornament",
+        "Chroma Bauble"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Sun Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/21/Chroma_Sunrise_Set.png/revision/latest/scale-to-width-down/300?cb=20250720071533",
+      "components": [
+        "Chroma Sunrise",
+        "Chroma Sunset"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Blizzard Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/e8/Cblizz_Set.png/revision/latest/scale-to-width-down/300?cb=20260124122903",
+      "components": [
+        "Chroma Snowstorm",
+        "Chroma Blizzard"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Snow Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/42/CSnow_Set.png/revision/latest/scale-to-width-down/300?cb=20260124122206",
+      "components": [
+        "Chroma Snow Dagger",
+        "Chroma Snowcannon"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Sweet Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Bringer Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bc/CBringerSet.png/revision/latest/scale-to-width-down/300?cb=20220707190841",
+      "components": [
+        "Chroma Darkbringer",
+        "Chroma Lightbringer"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Slasher Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/8f/CSlasherSet.png/revision/latest/scale-to-width-down/286?cb=20220707195520",
+      "components": [
+        "Chroma Slasher",
+        "Chroma Laser"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Pet Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Traveler Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d9/TravelerSet.png/revision/latest/scale-to-width-down/300?cb=20240102142254",
+      "components": [
+        "Traveler's Gun",
+        "Traveler's Axe"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Traveler's Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Evergreen Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/95/Evergreen_Set.png/revision/latest/scale-to-width-down/300?cb=20240226141253",
+      "components": [
+        "Evergreen",
+        "Evergun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ever Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Celestial Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/45/Celestial_Set.png/revision/latest/scale-to-width-down/293?cb=20241222155901",
+      "components": [
+        "Celestial",
+        "Constellation"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Alien Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/e0/Alien_Set.png/revision/latest/scale-to-width-down/300?cb=20251028121333",
+      "components": [
+        "Alienbeam",
+        "Raygun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Vampire's Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/3/36/VampiresSet.png/revision/latest/scale-to-width-down/300?cb=20241026055711",
+      "components": [
+        "Vampire's Axe",
+        "Vampire's Gun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Dark Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/dd/Darkset.png/revision/latest/scale-to-width-down/300?cb=20240330080245",
+      "components": [
+        "Darkshot",
+        "Darksword"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Sakura Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c6/Sakura_Set.png/revision/latest/scale-to-width-down/300?cb=20240226180611",
+      "components": [
+        "Sakura",
+        "Blossom"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Sun Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/2d/Sun_Set_2.png/revision/latest/scale-to-width-down/287?cb=20250720065840",
+      "components": [
+        "Sunrise",
+        "Sunset (Knife)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Bauble Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Snow Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b6/Snow_Set.png/revision/latest/scale-to-width-down/300?cb=20260124121900",
+      "components": [
+        "Snow Dagger",
+        "Snowcannon"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Soul Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b1/Spirit_Set.png/revision/latest/scale-to-width-down/300?cb=20241222155559",
+      "components": [
+        "Spirit",
+        "Soul"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Corrupt Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b6/Goldenset.png/revision/latest/scale-to-width-down/300?cb=20210724205520",
+      "components": [
+        "Corrupt",
+        "Luger"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Rainbow Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/58/Rainbow_Set.png/revision/latest/scale-to-width-down/300?cb=20240226174422",
+      "components": [
+        "Rainbow Gun (Godly)",
+        "Rainbow (Godly)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Bloom Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/70/BloomSet.png/revision/latest/scale-to-width-down/300?cb=20250427111639",
+      "components": [
+        "Bloom",
+        "Flora"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Bow Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Sweet Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Flowerwood Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/5c/Flowerwood_set.png/revision/latest/scale-to-width-down/300?cb=20240402110034",
+      "components": [
+        "Flowerwood",
+        "Flowerwood Gun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Xeno Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/46/Xeno_Set.png/revision/latest/scale-to-width-down/300?cb=20251028123415",
+      "components": [
+        "Xenoknife",
+        "Xenoshot"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ice Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/94/IceSet.png/revision/latest/scale-to-width-down/300?cb=20220813034310",
+      "components": [
+        "Icebreaker",
+        "Iceblaster"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Ice Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ocean Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/dc/Ocean_Set.png/revision/latest/scale-to-width-down/300?cb=20240226175145",
+      "components": [
+        "Waves",
+        "Ocean"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Blizzard Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a8/Blizzard_Set.png/revision/latest/scale-to-width-down/300?cb=20260124122735",
+      "components": [
+        "Snowstorm",
+        "Blizzard"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Borealis Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Bat Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/23/Bat_Set.png/revision/latest/scale-to-width-down/285?cb=20240920152002",
+      "components": [
+        "Bat",
+        "Makeshift"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Candy Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/e1/CandySet1.png/revision/latest/scale-to-width-down/298?cb=20220813032903",
+      "components": [
+        "Candy",
+        "Sugar"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Elderwood Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/e3/Full_Elderwood_Set.png/revision/latest/scale-to-width-down/300?cb=20221031002327",
+      "components": [
+        "Elderwood Scythe",
+        "Elderwood Blade",
+        "Elderwood Revolver"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Elderwood Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/1e/ElderwoodSet.png/revision/latest/scale-to-width-down/300?cb=20220813033517",
+      "components": [
+        "Elderwood Scythe",
+        "Elderwood Revolver"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pearl Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/60/Pearl_Set.png/revision/latest/scale-to-width-down/300?cb=20240920150713",
+      "components": [
+        "Pearl",
+        "Pearlshine"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Swirly Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/26/FullSwirlySet.png/revision/latest/scale-to-width-down/300?cb=20220628142335",
+      "components": [
+        "Swirly Axe",
+        "Swirly Gun",
+        "Swirly Blade"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Swirly Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d3/SwirlySet.png/revision/latest/scale-to-width-down/282?cb=20220628140127",
+      "components": [
+        "Swirly Axe",
+        "Swirly Gun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Spectre Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/29/Spectre_Set.png/revision/latest/scale-to-width-down/300?cb=20240226180006",
+      "components": [
+        "Phantom",
+        "Spectre"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Bringer Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bb/BringersetUpdated.png/revision/latest/scale-to-width-down/300?cb=20210820011307",
+      "components": [
+        "Lightbringer",
+        "Darkbringer"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Hallow Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/5a/HallowSet.png/revision/latest/scale-to-width-down/289?cb=20220813033846",
+      "components": [
+        "Hallowscythe",
+        "Hallowgun"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Iceflake Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a1/IceflakeSet.png/revision/latest/scale-to-width-down/299?cb=20220710220626",
+      "components": [
+        "Iceflake",
+        "Icebeam"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Plasma Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0b/PlasmaSet.png/revision/latest/scale-to-width-down/300?cb=20220701222040",
+      "components": [
+        "Plasmablade",
+        "Plasmabeam"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Slasher Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/18/SlasherSet.png/revision/latest/scale-to-width-down/276?cb=20220707220037",
+      "components": [
+        "Slasher",
+        "Laser (Godly)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Old Glory Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/41/OgSet.png/revision/latest/scale-to-width-down/293?cb=20220707215102",
+      "components": [
+        "Old Glory",
+        "Amerilaser"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Logchopper Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/5/50/LogSet1.png/revision/latest/scale-to-width-down/300?cb=20220707214618",
+      "components": [
+        "Logchopper",
+        "Minty"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ginger Set (Godly)": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/60/GodlyGingerSet.png/revision/latest/scale-to-width-down/280?cb=20220707201130",
+      "components": [
+        "Gingerblade",
+        "Ginger Luger"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ginger Set (Godly) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ginger Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Virtual Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/7b/VSet.png/revision/latest/scale-to-width-down/300?cb=20220708005048",
+      "components": [
+        "Virtual",
+        "Blaster"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Cookie Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/68/CookieSet.png/revision/latest/scale-to-width-down/293?cb=20221230054210",
+      "components": [
+        "Cookiecane",
+        "Gingermint"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Eternalcane Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/ec/EcaneSet.png/revision/latest/scale-to-width-down/300?cb=20220707200809",
+      "components": [
+        "Eternalcane",
+        "Lugercane"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pumpkin Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Latte Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/93/Latte_Set.png/revision/latest/scale-to-width-down/300?cb=20240329170157",
+      "components": [
+        "Latte (Gun)",
+        "Latte (Knife)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Bats Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d4/BatsSet.png/revision/latest/scale-to-width-down/256?cb=20220805210642",
+      "components": [
+        "Bats Knife (2018)",
+        "Bats Gun (2018)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Zombified Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c6/Zombified2.png/revision/latest/scale-to-width-down/300?cb=20210607225605",
+      "components": [
+        "Zombified (Knife)",
+        "Zombified (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Silent Night Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/fc/SilentNightSet.png/revision/latest/scale-to-width-down/266?cb=20221016121722",
+      "components": [
+        "Silent Night (Knife)",
+        "Silent Night (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Gingerbread Set (2019)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Gingerbread Set (2019) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Gingerbread Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Spectral Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Vampire Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c1/VampireSet.png/revision/latest/scale-to-width-down/277?cb=20220630135600",
+      "components": [
+        "Vampire Knife (2018)",
+        "Vampire Gun (2018)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Vampire Set (Legend.)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Vampire Set (Legend.) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pumpkin Set (2019)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pumpkin Set (2019) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pumpkin Set (2020)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pumpkin Set (2020) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Aurora Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/9/9f/AuroraSet.png/revision/latest/scale-to-width-down/269?cb=20220711093017",
+      "components": [
+        "Aurora Knife (2019)",
+        "Aurora Gun (2019)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Aurora Set (Legend.)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Aurora Set (Legend.) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pumpkin Set (2021)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pumpkin Set (2021) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Aurora Set (Rare)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Aurora Set (Rare) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Eye Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Mummy Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Potion Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/6a/PotionSet.png/revision/latest/scale-to-width-down/272?cb=20220711062455",
+      "components": [
+        "Potion Knife (2018)",
+        "Potion Gun (2018)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Zombie Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/b6/ZombieSet.png/revision/latest/scale-to-width-down/269?cb=20220805064849",
+      "components": [
+        "Zombie Knife (2018)",
+        "Zombie Gun (2018)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Frozen Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/c/c6/FrozenSet.png/revision/latest/scale-to-width-down/280?cb=20220805064513",
+      "components": [
+        "Frozen (Knife)",
+        "Frozen (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Toxic Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/1c/ToxicSet.png/revision/latest/scale-to-width-down/275?cb=20220630134735",
+      "components": [
+        "Toxic (Knife)",
+        "Toxic (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Cavern Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/f/ff/CavernSet.png/revision/latest/scale-to-width-down/279?cb=20220630140250",
+      "components": [
+        "Cavern (Knife)",
+        "Cavern (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Vampire Set (Rare)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Vampire Set (Rare) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Slime Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/41/SlimeSet.png/revision/latest/scale-to-width-down/276?cb=20220708003424",
+      "components": [
+        "Slime (Knife)",
+        "Slime (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ghost Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/6e/GhostSet.png/revision/latest/scale-to-width-down/300?cb=20210817070005",
+      "components": [
+        "Ghost (Gun)",
+        "Ghost (Knife)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Candy Swirl Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/ba/CandySwirlSet.png/revision/latest/scale-to-width-down/276?cb=20220708013241",
+      "components": [
+        "Candy Swirl (Knife)",
+        "Candy Swirl (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Lights Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/4/4d/LightsSet.png/revision/latest/scale-to-width-down/269?cb=20220728220126",
+      "components": [
+        "Lights (Knife)",
+        "Lights (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Icedriller Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Elite Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/6/60/Elite_Set.png/revision/latest/scale-to-width-down/300?cb=20211018080425",
+      "components": [
+        "Elite",
+        "Elitey",
+        "Green Elite",
+        "Blue Elite"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Elite Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Santa's Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bb/Santa%27sSet.png/revision/latest/scale-to-width-down/278?cb=20220819090616",
+      "components": [
+        "Santa's Magic",
+        "Santa's Spirit"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Santa's Set (Legendary)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Santa's Set (Legendary) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Scratch Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/a/a0/ScratchSet1.png/revision/latest/scale-to-width-down/286?cb=20220708051603",
+      "components": [
+        "Scratch (2016)",
+        "Scratch (2017)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Grave Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/b/bc/GraveSet.png/revision/latest/scale-to-width-down/281?cb=20220529005938",
+      "components": [
+        "Grave (Knife)",
+        "Grave (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Marble Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/7/72/MarbleSet.png/revision/latest/scale-to-width-down/300?cb=20211103135933",
+      "components": [
+        "Orange Marble",
+        "Green Marble"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Snakebite Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/87/SnakebiteSet.png/revision/latest/scale-to-width-down/276?cb=20220708014629",
+      "components": [
+        "Snakebite (Knife)",
+        "Snakebite (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Haunted Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/23/HauntedSet2018.png/revision/latest/scale-to-width-down/284?cb=20220628102849",
+      "components": [
+        "Haunted (Knife)",
+        "Haunted (Gun)"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Bringer Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Luger Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/2b/Luger_Set.png/revision/latest/scale-to-width-down/300?cb=20221029064325",
+      "components": [
+        "Luger",
+        "Red Luger",
+        "Green Luger",
+        "Ginger Luger",
+        "Lugercane",
+        "Chroma Luger"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Luger Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Sparkle Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/e/e1/SparkleSet.png/revision/latest/scale-to-width-down/300?cb=20221030001511",
+      "components": [
+        "Sparkle1",
+        "Sparkle2",
+        "Sparkle3",
+        "Sparkle4",
+        "Sparkle5",
+        "Sparkle6",
+        "Sparkle7",
+        "Sparkle8",
+        "Sparkle9",
+        "Sparkle10"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Collectible Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Vintage Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/8/85/Vintage_set.png/revision/latest/scale-to-width-down/300?cb=20240329164651",
+      "components": [
+        "Ghost",
+        "Shadow",
+        "Phaser",
+        "Golden",
+        "America (Vintage)",
+        "Blood",
+        "Splitter",
+        "Laser (Vintage)",
+        "Prince",
+        "Cowboy"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Eternal Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Colored Seer Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0d/ColoredSeerSet.png/revision/latest/scale-to-width-down/300?cb=20221029063550",
+      "components": [
+        "Seer",
+        "Blue Seer",
+        "Purple Seer",
+        "Red Seer",
+        "Orange Seer",
+        "Yellow Seer",
+        "Chroma Seer"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Colored Seer Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Skate Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/d/d5/SkateSet1.png/revision/latest/scale-to-width-down/300?cb=20220728220946",
+      "components": [
+        "Sidewinder",
+        "Grind",
+        "Euro",
+        "Ollie",
+        "Tailslide",
+        "Indy"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Pals Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/1/19/Denis_improved.png/revision/latest/scale-to-width-down/300?cb=20210613130048",
+      "components": [
+        "Alex",
+        "Corl",
+        "Denis",
+        "Sketchy",
+        "Sub"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Wrapping Paper Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Godly Pet Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Small Set (107 Items)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Small Set (107 Items) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Small Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Small Set (103 Items)": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Small Set (103 Items) Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Full Chroma Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Weapon Set": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Sweet Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Sweet Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaSweetSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaSweetSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Pet Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Pet Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaPetSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaPetSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Bauble Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Bauble Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:BaubleSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:BaubleSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Bow Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Bow Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:BowSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:BowSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Sweet Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Sweet Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SweetSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SweetSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Borealis Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Borealis Set.jpg": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/01/Borealis_Set.jpg/revision/latest?cb=20241220160519",
+      "components": []
+    },
+    "File:BorealisSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:BorealisSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Gingerbread Set (2019).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Gingerbread Set (2019).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Gingerbread Set (2019) Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Gingerbread Set (2019) Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GingerbreadSet(2019).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GingerbreadSet(2019).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GingerbreadSet(2019)Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GingerbreadSet(2019)Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Gingerbread Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Gingerbread Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GingerbreadSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GingerbreadSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Spectral Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Spectral Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SpectralSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SpectralSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2019).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2019).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2019) Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2019) Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2019).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2019).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2019)Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2019)Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2020).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2020).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2020) Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2020) Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2020).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2020).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2020)Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2020)Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2021).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2021).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2021) Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Pumpkin Set (2021) Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2021).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2021).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2021)Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:PumpkinSet(2021)Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Eye Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Eye Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:EyeSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:EyeSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Mummy Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Mummy Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:MummySet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:MummySet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Icedriller Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Icedriller Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:IcedrillerSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:IcedrillerSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Collectible Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Collectible Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:CollectibleSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:CollectibleSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Eternal Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Eternal Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:EternalSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:EternalSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Wrapping Paper Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Wrapping Paper Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:WrappingPaperSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:WrappingPaperSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Colored Seer Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Colored Seer Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ColoredSeerSet.png": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0d/ColoredSeerSet.png/revision/latest?cb=20221029063550",
+      "components": []
+    },
+    "File:ColoredSeerSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Godly Pet Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Godly Pet Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GodlyPetSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:GodlyPetSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (107 Items).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (107 Items).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (107 Items) Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (107 Items) Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(107Items).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(107Items).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(107Items)Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(107Items)Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (103 Items).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (103 Items).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (103 Items) Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Small Set (103 Items) Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(103Items).png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(103Items).jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(103Items)Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:SmallSet(103Items)Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Full Chroma Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Full Chroma Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:FullChromaSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:FullChromaSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Weapon Set.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:Chroma Weapon Set.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaWeaponSet.png": {
+      "imageUrl": null,
+      "components": []
+    },
+    "File:ChromaWeaponSet.jpg": {
+      "imageUrl": null,
+      "components": []
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Chroma Ornament Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/2c/Corn_Set.png/revision/latest/scale-to-width-down/300?cb=20260124122527",
+      "components": [
+        "Chroma Ornament",
+        "Chroma Bauble"
+      ]
+    },
+    "Murder Mystery 2 Wiki:Wiki-Bot/Ornament Set": {
+      "imageUrl": "https://static.wikia.nocookie.net/murder-mystery-2/images/0/0c/Ornament_Set.png/revision/latest/scale-to-width-down/300?cb=20260124122348",
+      "components": [
+        "Ornament",
+        "Bauble"
+      ]
+    }
+  }
+}

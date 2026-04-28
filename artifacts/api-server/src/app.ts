@@ -1,13 +1,16 @@
-import express, { type Express, Request, Response } from "express";
+import express, { type Express } from "express";
 import cors from "cors";
-import pinoHttp from "pino-http";
+import * as pinoHttp from "pino-http";
+import type { Request, Response } from "express";
 
 import router from "./routes";
 import { logger as customLogger } from "./lib/logger";
 
 const app: Express = express();
 
-// HTTP logger middleware
+// FIXED pino-http init (Vercel-safe)
+const logger = (pinoHttp as any).default?.() ?? (pinoHttp as any)();
+
 app.use(
   pinoHttp({
     logger: customLogger,

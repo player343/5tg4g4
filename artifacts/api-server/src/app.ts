@@ -1,30 +1,33 @@
-import express, { type Express } from "express";
+import express, { type Express, Request, Response } from "express";
 import cors from "cors";
-const logger = pinoHttp();
+import pinoHttp from "pino-http";
+
 import router from "./routes";
-import { logger } from "./lib/logger";
+import { logger as customLogger } from "./lib/logger";
 
 const app: Express = express();
 
+// HTTP logger middleware
 app.use(
   pinoHttp({
-    logger,
+    logger: customLogger,
     serializers: {
-      req(req) {
+      req(req: Request) {
         return {
-          id: req.id,
+          id: (req as any).id,
           method: req.method,
           url: req.url?.split("?")[0],
         };
       },
-      res(res) {
+      res(res: Response) {
         return {
           statusCode: res.statusCode,
         };
       },
     },
-  }),
+  })
 );
+
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

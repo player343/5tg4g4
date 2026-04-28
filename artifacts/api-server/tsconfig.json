@@ -19,6 +19,6 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "strict": true
+    "moduleResolution": "bundler"  // or "node16" / "nodenext"
   }
 }

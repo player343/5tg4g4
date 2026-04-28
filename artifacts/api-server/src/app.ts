@@ -1,4 +1,6 @@
-import pinoHttp, { type Options } from "pino-http";
+import type { Options } from "pino-http";
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const pinoHttp = require("pino-http") as (opts: Options) => any;
 
 app.use(
   pinoHttp({
@@ -17,5 +19,5 @@ app.use(
         };
       },
     },
-  } satisfies Options)
+  })
 );
